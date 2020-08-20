@@ -1,0 +1,24 @@
+Created by testinium on 19.08.2020
+
+This is a concept file with following syntax for each concept.
+# 1. Yolcu Bilgileri Gir
+* "com.turkishairlines.mobile:id/frAddNewPassenger_etAddName" ID li elementi bul ve "Ece" degerini yaz
+* "com.turkishairlines.mobile:id/frAddNewPassenger_etAddLastName" ID li elementi bul ve "Akgul" degerini yaz
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup/android.widget.CheckBox[2]" Xpath li elementi bul ve tıkla
+* "com.turkishairlines.mobile:id/frAddNewPassenger_etAddDateOfBirth" ID li elementi bul ve "08/08/1997" degerini yaz
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.widget.CheckBox[1]" Xpath li elementi bul ve tıkla
+* "com.turkishairlines.mobile:id/frAddNewPassenger_etAddTCKN" ID li elementi bul ve "11111111111" degerini yaz
+* "com.turkishairlines.mobile:id/frAddNewPassenger_btnAddPassenger" ID li  elementi bul ve tıkla
+* "com.turkishairlines.mobile:id/frPickPassenger_btnContinue" ID li  elementi bul ve tıkla
+
+#2. Yolcu Bilgileri
+* "com.turkishairlines.mobile:id/frAddNewPassenger_etAddName" ID li elementi bul ve "Ayse" degerini yaz
+* "com.turkishairlines.mobile:id/frAddNewPassenger_etAddLastName" ID li elementi bul ve "Dogan" degerini yaz
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup/android.widget.CheckBox[2]" Xpath li elementi bul ve tıkla
+* "com.turkishairlines.mobile:id/frAddNewPassenger_etAddDateOfBirth" ID li elementi bul ve "01/01/1998" degerini yaz
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.widget.CheckBox[1]" Xpath li elementi bul ve tıkla
+* "com.turkishairlines.mobile:id/frAddNewPassenger_etAddTCKN" ID li elementi bul ve "11111111112" degerini yaz
+* "com.turkishairlines.mobile:id/frAddNewPassenger_btnAddPassenger" ID li  elementi bul ve tıkla
+* "com.turkishairlines.mobile:id/frPickPassenger_btnContinue" ID li  elementi bul ve tıkla
+
+

@@ -1,0 +1,7 @@
+Created by testinium on 19.08.2020
+
+This is a concept file with following syntax for each concept.
+# Gidis Yönü Sec
+* "com.turkishairlines.mobile:id/frDashboard_llFrom" ID li  elementi bul ve tıkla
+* "com.turkishairlines.mobile:id/frAirportSelection_etSearch" ID li elementi bul ve "SAW" degerini yaz
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[2]" Xpath li elementi bul ve tıkla

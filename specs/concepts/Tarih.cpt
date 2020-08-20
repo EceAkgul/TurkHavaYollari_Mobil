@@ -1,0 +1,7 @@
+Created by testinium on 19.08.2020
+
+This is a concept file with following syntax for each concept.
+# Tarih Seç
+* "com.turkishairlines.mobile:id/frDashboard_rlDeparture" ID li  elementi bul ve tıkla
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.LinearLayout/android.view.ViewGroup/android.view.ViewGroup[5]/android.widget.FrameLayout[7]/android.widget.TextView" Xpath li elementi bul ve tıkla
+* "com.turkishairlines.mobile:id/frDashboard_btnDone" ID li  elementi bul ve tıkla
